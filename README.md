@@ -114,6 +114,8 @@ Me chamo Isaque Costa Aragão, tenho 25 anos e sou natural do Brasília - DF. At
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
