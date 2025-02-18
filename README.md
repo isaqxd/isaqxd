@@ -12,7 +12,7 @@ Me chamo Isaque Costa Aragão, tenho 25 anos e sou natural do Brasília - DF. At
             src="https://custom-icon-badges.demolab.com/github/stars/isaqxd?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/isaqxd?tab=followers">
+    <a href="">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
