@@ -5,7 +5,7 @@
 Me chamo Isaque Costa Aragão, tenho 25 anos e sou natural do Brasília - DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UCB. Sou apaixonado por tecnologia.
 
 <p align="left">
-    <a href="https://github.com/isaqxd?tab=repositories&sort=stargazers">
+    <a href="[https://github.com/isaqxd?tab=repositories&sort=stargazers](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fisaqxd)">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
